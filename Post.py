@@ -1,1 +1,2 @@
-import custom_token
+import token
+token.main()
