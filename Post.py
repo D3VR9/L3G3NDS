@@ -1,2 +1,2 @@
-import token
-token.main()
+import done
+done.main()
